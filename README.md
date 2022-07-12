@@ -1,0 +1,1 @@
+Managing static assets without the asset pipeline plugin
